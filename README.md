@@ -15,5 +15,5 @@
 ![avatar](https://user-images.githubusercontent.com/33253635/80103267-8e7f6380-85a6-11ea-95fa-184ae06b0aa7.png)
 
 ## 回收站
-![avatar](https://user-images.githubusercontent.com/33253635/80103275-93dcae00-85a6-11ea-87e6-f0fbc1615658.png）
+![avatar](https://user-images.githubusercontent.com/33253635/80103275-93dcae00-85a6-11ea-87e6-f0fbc1615658.png)
 
