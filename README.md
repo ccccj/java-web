@@ -1,5 +1,7 @@
 # java-web
 
+# 采用springboot、ajax、jquery、高斯数据库、obs
+
 # 部分界面展示
 
 ## 登录界面
